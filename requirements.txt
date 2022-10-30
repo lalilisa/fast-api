@@ -1,0 +1,7 @@
+
+
+
+pip install sqlalchemy
+pip mysql-connector-python
+pip install fastapi
+pip install "uvicorn[standard]"
